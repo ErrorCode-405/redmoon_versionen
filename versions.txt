@@ -1,2 +1,2 @@
-red_aduty = '1.2'
+red_aduty = '1.0'
 red_core = '1.0'
